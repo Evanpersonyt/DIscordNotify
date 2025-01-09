@@ -1,6 +1,11 @@
 # Discord Notify
 For send message in discord when the serveur start and stop
+
+--------
+
 **In devloppement ! But it is functional.**
+--------
+
 
 for download .jar go to target > and here it is !
 
