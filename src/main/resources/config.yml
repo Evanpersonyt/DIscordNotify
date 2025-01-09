@@ -1,0 +1,4 @@
+bot-token: "VOTRE_BOT_TOKEN"
+channel-id: "VOTRE_CHANNEL_ID"
+start-message: "Le serveur Minecraft vient de démarrer !"
+stop-message: "Le serveur Minecraft vient de s'arrêter !"

@@ -1,0 +1,10 @@
+name: DiscordNotify
+version: 1.0
+main: com.example.discordnotify.DiscordNotifyPlugin
+api-version: 1.8
+description: Un plugin qui notifie sur Discord lors du démarrage ou de l'arrêt du serveur.
+
+commands:
+  dsn:
+    description: Commande principale pour DiscordNotify.
+    usage: /<command> [help|reload|test <1|2>]
